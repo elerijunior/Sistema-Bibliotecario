@@ -49,5 +49,4 @@ Pretendo continuar evoluindo o projeto e, conforme avanço nos estudos, adiciona
 * [ ] Aplicar MVC
 
 ---
-
-Projeto desenvolvido durante minha jornada de aprendizado em back-end com C#. 🚀
+Projeto desenvolvido durante minha jornada de aprendizado em back-end com C#.
