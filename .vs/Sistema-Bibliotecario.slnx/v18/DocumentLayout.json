@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sistema-Bibliotecario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3309869B-F64E-94EB-F1D4-472E9AC4D2D5}|Sistema-Bibliotecario\\Sistema-Bibliotecario.csproj|d:\\sistema-bibliotecario\\sistema-bibliotecario\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3309869B-F64E-94EB-F1D4-472E9AC4D2D5}|Sistema-Bibliotecario\\Sistema-Bibliotecario.csproj|solutionrelative:sistema-bibliotecario\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3309869B-F64E-94EB-F1D4-472E9AC4D2D5}|Sistema-Bibliotecario\\Sistema-Bibliotecario.csproj|d:\\sistema-bibliotecario\\sistema-bibliotecario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3309869B-F64E-94EB-F1D4-472E9AC4D2D5}|Sistema-Bibliotecario\\Sistema-Bibliotecario.csproj|solutionrelative:sistema-bibliotecario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "D:\\Sistema-Bibliotecario\\Sistema-Bibliotecario\\Loan.cs",
+              "RelativeDocumentMoniker": "Sistema-Bibliotecario\\Loan.cs",
+              "ToolTip": "D:\\Sistema-Bibliotecario\\Sistema-Bibliotecario\\Loan.cs",
+              "RelativeToolTip": "Sistema-Bibliotecario\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:43:57.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sistema-Bibliotecario\\Sistema-Bibliotecario\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema-Bibliotecario\\Program.cs",
+              "ToolTip": "D:\\Sistema-Bibliotecario\\Sistema-Bibliotecario\\Program.cs",
+              "RelativeToolTip": "Sistema-Bibliotecario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:43:51.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
